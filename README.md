@@ -1,6 +1,6 @@
-# Nombre del proyecto
+# Tarifas de EPM en Medellín
 
-Equipo E__ · Análisis de Datos Intermedio · Estud-IA (Capa 2)
+Demo del profe · Análisis de Datos Intermedio · Estud-IA (Capa 2)
 
 ## Brief v1
 

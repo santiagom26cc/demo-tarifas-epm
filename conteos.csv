@@ -1,3 +1,4 @@
 fecha,conjunto,filtro,esperadas,traidas,ids_unicos,paginas,estado,archivo,detalle
 2026-11-18 17:15,nfrm-mmfe,municipio=Medellín,2159,2159,2159,3,completa,data/raw/nfrm-mmfe_2026-11-18_171543.json,
 2026-11-18 17:16,nfrm-mmfe,municipio=Medellín,2159,1159,1159,3,incompleta,,traídas distintas de esperadas
+2026-11-20 13:25,nfrm-mmfe,,24611,24611,24611,25,completa,data/raw/nfrm-mmfe_2026-11-20_132510.json,
